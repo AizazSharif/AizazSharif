@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Senior Machine Learning Engineer & AI Specialist
 
-Computer Science PhD, AI Engineer, and Researcher based in Oslo, Norway.
+Computer Science Major, AI Engineer, and Researcher in Oslo, Norway.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aizazsharif/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/AizazSharif420)
