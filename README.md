@@ -143,7 +143,7 @@ Python | TensorFlow | PyTorch | Keras | LangChain | LangGraph | Pinecone | Ray R
 While many of my contributions are in private company repositories, I remain an active developer:
 
 <p align="center">
-  <img src="/api/placeholder/750/200" alt="49 contributions in the last year - Company GitHub Activity" />
+  <img src="Screenshot from 2025-03-06 14-27-06.png" alt="49 contributions in the last year - Company GitHub Activity" />
 </p>
 
 > **49 contributions in the last year** to company projects, primarily focused on developing LLM-powered platforms and AI solutions. My work includes LangChain implementations, custom RAG solutions, and backend infrastructure development.
