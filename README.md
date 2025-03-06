@@ -138,6 +138,16 @@ Python | TensorFlow | PyTorch | Keras | LangChain | LangGraph | Pinecone | Ray R
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AizazSharif&theme=radical" alt="GitHub Streak" />
 </p>
 
+### 💻 Company GitHub Contributions
+
+While many of my contributions are in private company repositories, I remain an active developer:
+
+<p align="center">
+  <img src="/api/placeholder/750/200" alt="49 contributions in the last year - Company GitHub Activity" />
+</p>
+
+> **49 contributions in the last year** to company projects, primarily focused on developing LLM-powered platforms and AI solutions. My work includes LangChain implementations, custom RAG solutions, and backend infrastructure development.
+
 ---
 
 ### 📫 How to reach me:
