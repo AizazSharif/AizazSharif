@@ -17,8 +17,8 @@ I'm a Senior Machine Learning Engineer with 8+ years of experience in AI, data s
 
 - 🔭 I'm currently building LLM-powered platforms for processing meeting recordings and custom RAG solutions
 - 🌱 I'm exploring advanced LLM architectures and autonomous systems
-- 💡 I specialize in reinforcement learning, LLM technologies, and autonomous vehicle safety
-- 📚 PhD in Computer Science with focus on testing autonomous systems in multi-agent environments
+- 💡 I specialize in reinforcement learning, AI technologies, and autonomous vehicle safety
+- 📚 PhD in Computer Science with a focus on testing autonomous systems in multi-agent environments
 
 ### 🛠️ Technologies & Tools
 
