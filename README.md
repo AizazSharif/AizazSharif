@@ -1,6 +1,6 @@
 # Aizaz Sharif
 
-## 👨‍💻 Senior Machine Learning Engineer & AI Specialist
+## 👨‍💻 Machine Learning Engineer & AI Specialist
 
 Computer Science Major, AI Engineer, and Researcher in Oslo, Norway.
 
@@ -13,7 +13,7 @@ Computer Science Major, AI Engineer, and Researcher in Oslo, Norway.
 
 ### 🚀 About Me
 
-I'm a Senior Machine Learning Engineer with 8+ years of experience in AI, data science, and software engineering. Currently working at AI Dev Lab, focusing on production-ready LLM-powered platforms and autonomous systems research.
+I'm a Machine Learning Engineer with 8+ years of experience in AI, data science, and software engineering. Currently working at AI Dev Lab, focusing on production-ready LLM-powered platforms and autonomous systems research.
 
 - 🔭 I'm currently building LLM-powered platforms for processing meeting recordings and custom RAG solutions
 - 🌱 I'm exploring advanced LLM architectures and autonomous systems
@@ -31,7 +31,7 @@ Python | TensorFlow | PyTorch | Keras | LangChain | LangGraph | Pinecone | Ray R
 ### 💼 Work Experience
 
 #### AI Dev Lab (11/2024 - Present)
-**Senior Machine Learning Engineer**
+**Machine Learning Engineer**
 - Implementing production-ready LLM platforms for meeting analytics using LangChain, LangGraph, and Pinecone
 - Developing robust backend infrastructure with Python, Firebase, and GCP services
 - Managing end-to-end ML/LLM development lifecycle from prototyping to production
